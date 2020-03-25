@@ -16,11 +16,11 @@
 ***
 
 #### Bottleneck Analysis
-An aggregate density based analysis showing where the majority of space was utilized
+An aggregate density based analysis showing where the majority of space was utilized.
 ![Bottleneck](images/bottleneck-3.png)
 
 #### Path Analysis
-The path analysis module lets you explore simulation traces as an animation or at any timestep in the simulation
+The path analysis module lets you explore simulation traces as an animation or at any timestep in the simulation.
 ![Path](images/path-3.png)
 
 ***

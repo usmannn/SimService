@@ -3,9 +3,9 @@
 ***
 
 * BIM (IFC) supported
-* Evaluate egress evacuations
+* Egress evacuations
 * Author domain-specific crowd scenarios
-* Perform bottleneck and path analyses
+* Bottleneck and path analyses
 * Crowd animation
 * Informative visualizations
 

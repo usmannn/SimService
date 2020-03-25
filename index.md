@@ -1,10 +1,10 @@
 # Simulation-as-a-Service
-Crowd-aware Analytics for Built-Environments
 
-* A multi-platform solution
 * BIM (IFC) supported
-* Egress and day-to-day crowd activity scenarios
-* Bottleneck and path analyses
+* Evaluate egress evacuations
+* Author domain-specific crowd scenarios
+* Perform bottleneck and path analyses
 * Crowd animation
+* Informative visualizations
 
 ![Framework](images/Framework_v5_website.png)

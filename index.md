@@ -1,5 +1,7 @@
 # Simulation-as-a-Service
 
+***
+
 * BIM (IFC) supported
 * Evaluate egress evacuations
 * Author domain-specific crowd scenarios
@@ -7,4 +9,8 @@
 * Crowd animation
 * Informative visualizations
 
+***
+
 ![Framework](images/Framework_v5_website.png)
+
+![Bottleneck](images/bottleneck.png) ![Path](images/path.png)

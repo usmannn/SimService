@@ -7,4 +7,4 @@ Crowd-aware Analytics for Built-Environments
 * Bottleneck and path analyses
 * Crowd animation
 
-![Framework](https://github.com/usmannn/simservice.github.io/blob/master/images/Framework_v5_website.png)
+![Framework](images/Framework_v5_website.png)
